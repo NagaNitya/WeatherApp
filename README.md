@@ -1,4 +1,8 @@
-# React + Vite
+# Weather Forecasting Application
+
+Access the deployment here: https://weatherforecastingapp2024.netlify.app/
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
